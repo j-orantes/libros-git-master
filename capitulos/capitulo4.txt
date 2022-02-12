@@ -1,0 +1,3 @@
+2.Añadir los cambios l.
+3.Hacer un commit con el mensaje “Añadido capítulo 
+4.Mostrar la historia del repositorio incluyendo todas las ramas.
